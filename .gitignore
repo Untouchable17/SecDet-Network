@@ -3,7 +3,7 @@ idea
 .DS_Store
 .env.dev
 
-#.gitignore
+.gitignore
 
 *.egg-info/
 .installed.cfg
