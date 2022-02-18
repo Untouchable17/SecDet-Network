@@ -1,3 +1,3 @@
 # Клиентская часть Blackout Network
 
-`React` `Redux`
+`React` `Redux` `mobx`
